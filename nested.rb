@@ -113,7 +113,7 @@ def changing_alan
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :alans_new_info = "GUI",
+          :known_for => "Unix",
           :languages => ["C"]
         }
      }
