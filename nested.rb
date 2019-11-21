@@ -80,7 +80,6 @@ def adding_matz
         :yukihiro_matsumoto => {
           :known_for => "Ruby",
           :languages => ["LISP", "C"]
-        }
      }
 
 	programmer_hash = 
@@ -110,7 +109,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :alans_new_info => "Object Orientation",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
